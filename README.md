@@ -1,1 +1,1 @@
-# HotelManagement.ConsoleApp
+# Hotel Management ConsoleApp
