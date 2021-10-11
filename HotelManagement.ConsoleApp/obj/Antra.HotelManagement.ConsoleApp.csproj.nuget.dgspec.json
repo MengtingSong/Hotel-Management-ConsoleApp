@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/RED/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement.ConsoleApp/Antra.HotelManagement.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "/Volumes/RED/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement.ConsoleApp/Antra.HotelManagement.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/RED/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement.ConsoleApp/Antra.HotelManagement.ConsoleApp.csproj",
+        "projectName": "Antra.HotelManagement.ConsoleApp",
+        "projectPath": "/Volumes/RED/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement.ConsoleApp/Antra.HotelManagement.ConsoleApp.csproj",
+        "packagesPath": "/Users/mtsong/.nuget/packages/",
+        "outputPath": "/Volumes/RED/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement.ConsoleApp/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/mtsong/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Volumes/RED/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement/Antra.HotelManagement.csproj": {
+                "projectPath": "/Volumes/RED/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement/Antra.HotelManagement.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/RED/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement/Antra.HotelManagement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/RED/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement/Antra.HotelManagement.csproj",
+        "projectName": "Antra.HotelManagement",
+        "projectPath": "/Volumes/RED/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement/Antra.HotelManagement.csproj",
+        "packagesPath": "/Users/mtsong/.nuget/packages/",
+        "outputPath": "/Volumes/RED/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/mtsong/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

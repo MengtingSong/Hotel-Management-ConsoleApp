@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{948AD9FC-4C34-4AB4-90F8-7B0A88289D8F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Antra.HotelManagement.ConsoleApp/Program.cs">
+    <Files>
+      <File FileName="Antra.HotelManagement.ConsoleApp/Program.cs" Line="14" Column="1" />
+      <File FileName="Antra.HotelManagement/Data/Services.cs" />
+      <File FileName="Antra.HotelManagement/Repository/RoomRepository.cs" />
+      <File FileName="Antra.HotelManagement/Repository/DbContext.cs" />
+      <File FileName="Antra.HotelManagement.ConsoleApp/appsettings.json" />
+      <File FileName="Antra.HotelManagement/Repository/IRepository.cs" />
+      <File FileName="Antra.HotelManagement.ConsoleApp/Operations.cs" />
+      <File FileName="Antra.HotelManagement.ConsoleApp/Menu.cs" />
+      <File FileName="Antra.HotelManagement.ConsoleApp/UI/ManageRoom.cs" />
+      <File FileName="Antra.HotelManagement.ConsoleApp/MainScreen.cs" />
+      <File FileName="Antra.HotelManagement.ConsoleApp/MainScreenFactory.cs" />
+      <File FileName="Antra.HotelManagement.ConsoleApp/UI/ManageRoomType.cs" />
+      <File FileName="Antra.HotelManagement.ConsoleApp/UI/ManageService.cs" />
+      <File FileName="Antra.HotelManagement.ConsoleApp/UI/ManageCustomer.cs" />
+      <File FileName="Antra.HotelManagement/Repository/CustomerRepository.cs" />
+      <File FileName="Antra.HotelManagement/Repository/RoomTypeRepository.cs" />
+      <File FileName="Antra.HotelManagement/Repository/ServiceRepository.cs" />
+      <File FileName="Antra.HotelManagement.ConsoleApp/Dashboard.cs" />
+      <File FileName="Antra.HotelManagement/Data/Customer.cs" />
+      <File FileName="Antra.HotelManagement/Data/Room.cs" />
+      <File FileName="Antra.HotelManagement/Data/RoomType.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Antra.HotelManagement" expanded="True" selected="True">
+            <Node name="Antra.HotelManagement" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Repository" expanded="True" />
+            </Node>
+            <Node name="Antra.HotelManagement.ConsoleApp" expanded="True">
+              <Node name="UI" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Antra.HotelManagement.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

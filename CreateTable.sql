@@ -1,0 +1,43 @@
+USE HotelManagement
+GO
+
+CREATE TABLE RoomTypes
+(
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    RtDesc VARCHAR(20),
+    Rent MONEY
+)
+GO
+
+CREATE TABLE Rooms
+(
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    RtCode INT FOREIGN KEY REFERENCES RoomTypes(Id) ON DELETE CASCADE,
+    [Status] BIT
+)
+GO
+
+CREATE TABLE Services
+(
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    RoomNO INT FOREIGN KEY REFERENCES Rooms(Id) ON DELETE CASCADE,
+    SDesc VARCHAR(50),
+    Amount MONEY,
+    ServerceDate DATETIME
+)
+GO
+
+CREATE TABLE Customers
+(
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    RoomNO INT FOREIGN KEY REFERENCES Rooms(Id) ON DELETE CASCADE,
+    CName VARCHAR(20),
+    Address VARCHAR(100),
+    Phone VARCHAR(20),
+    Email VARCHAR(40),
+    Checkin DATETIME,
+    TotalPersons INT,
+    BookingDays INT,
+    Advance MONEY
+)
+GO

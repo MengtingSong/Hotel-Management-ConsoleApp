@@ -1,0 +1,20 @@
+/Users/mtsong/Documents/Web Dev/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement/bin/Debug/netcoreapp3.1/Antra.HotelManagement.deps.json
+/Users/mtsong/Documents/Web Dev/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement/bin/Debug/netcoreapp3.1/Antra.HotelManagement.dll
+/Users/mtsong/Documents/Web Dev/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement/bin/Debug/netcoreapp3.1/Antra.HotelManagement.pdb
+/Users/mtsong/Documents/Web Dev/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement/obj/Debug/netcoreapp3.1/Antra.HotelManagement.csproj.AssemblyReference.cache
+/Users/mtsong/Documents/Web Dev/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement/obj/Debug/netcoreapp3.1/Antra.HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mtsong/Documents/Web Dev/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement/obj/Debug/netcoreapp3.1/Antra.HotelManagement.AssemblyInfoInputs.cache
+/Users/mtsong/Documents/Web Dev/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement/obj/Debug/netcoreapp3.1/Antra.HotelManagement.AssemblyInfo.cs
+/Users/mtsong/Documents/Web Dev/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement/obj/Debug/netcoreapp3.1/Antra.HotelManagement.csproj.CoreCompileInputs.cache
+/Users/mtsong/Documents/Web Dev/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement/obj/Debug/netcoreapp3.1/Antra.HotelManagement.dll
+/Users/mtsong/Documents/Web Dev/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement/obj/Debug/netcoreapp3.1/Antra.HotelManagement.pdb
+/Volumes/RED/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement/obj/Debug/netcoreapp3.1/Antra.HotelManagement.csproj.AssemblyReference.cache
+/Volumes/RED/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement/obj/Debug/netcoreapp3.1/Antra.HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/RED/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement/obj/Debug/netcoreapp3.1/Antra.HotelManagement.AssemblyInfoInputs.cache
+/Volumes/RED/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement/obj/Debug/netcoreapp3.1/Antra.HotelManagement.AssemblyInfo.cs
+/Volumes/RED/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement/obj/Debug/netcoreapp3.1/Antra.HotelManagement.csproj.CoreCompileInputs.cache
+/Volumes/RED/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement/obj/Debug/netcoreapp3.1/Antra.HotelManagement.dll
+/Volumes/RED/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement/obj/Debug/netcoreapp3.1/Antra.HotelManagement.pdb
+/Volumes/RED/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement/bin/Debug/netcoreapp3.1/Antra.HotelManagement.deps.json
+/Volumes/RED/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement/bin/Debug/netcoreapp3.1/Antra.HotelManagement.dll
+/Volumes/RED/Antra/Projects/Antra.HotelManagementApp/Antra.HotelManagement/bin/Debug/netcoreapp3.1/Antra.HotelManagement.pdb

@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{948AD9FC-4C34-4AB4-90F8-7B0A88289D8F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HotelManagement.ConsoleApp/UI/ManageCustomer.cs">
+    <Files>
+      <File FileName="HotelManagement.ConsoleApp/UI/ManageCustomer.cs" Line="60" Column="10" />
+      <File FileName="HotelManagement/Data/Customer.cs" Line="9" Column="43" />
+      <File FileName="HotelManagement/Data/Room.cs" Line="11" Column="6" />
+      <File FileName="HotelManagement/Data/RoomType.cs" Line="2" Column="11" />
+      <File FileName="HotelManagement/Data/Services.cs" Line="11" Column="1" />
+      <File FileName="HotelManagement/Repository/CustomerRepository.cs" Line="10" Column="6" />
+      <File FileName="HotelManagement/Repository/DbContext.cs" Line="6" Column="11" />
+      <File FileName="HotelManagement/Repository/IRepository.cs" Line="4" Column="11" />
+      <File FileName="HotelManagement/Repository/RoomRepository.cs" Line="3" Column="7" />
+      <File FileName="HotelManagement/Repository/RoomTypeRepository.cs" Line="5" Column="11" />
+      <File FileName="HotelManagement/Repository/ServiceRepository.cs" Line="5" Column="11" />
+      <File FileName="HotelManagement.ConsoleApp/appsettings.json" Line="8" Column="19" />
+      <File FileName="HotelManagement.ConsoleApp/Dashboard.cs" Line="2" Column="11" />
+      <File FileName="HotelManagement.ConsoleApp/MainScreen.cs" Line="2" Column="12" />
+      <File FileName="HotelManagement.ConsoleApp/MainScreenFactory.cs" Line="4" Column="11" />
+      <File FileName="HotelManagement.ConsoleApp/Menu.cs" Line="2" Column="11" />
+      <File FileName="HotelManagement.ConsoleApp/Operations.cs" Line="3" Column="11" />
+      <File FileName="HotelManagement.ConsoleApp/Program.cs" Line="12" Column="6" />
+      <File FileName="HotelManagement.ConsoleApp/UI/ManageRoom.cs" Line="2" Column="11" />
+      <File FileName="HotelManagement.ConsoleApp/UI/ManageRoomType.cs" Line="2" Column="11" />
+      <File FileName="HotelManagement.ConsoleApp/UI/ManageService.cs" Line="2" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HotelManagement" expanded="True">
+            <Node name="HotelManagement" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Repository" expanded="True" />
+            </Node>
+            <Node name="HotelManagement.ConsoleApp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="UI" expanded="True">
+                <Node name="ManageCustomer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HotelManagement.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

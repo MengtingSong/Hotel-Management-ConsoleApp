@@ -1,0 +1,10 @@
+/Users/mtsong/Documents/WebDev/Antra/HotelManagementApp/HotelManagement/bin/Debug/netcoreapp3.1/HotelManagement.deps.json
+/Users/mtsong/Documents/WebDev/Antra/HotelManagementApp/HotelManagement/bin/Debug/netcoreapp3.1/HotelManagement.dll
+/Users/mtsong/Documents/WebDev/Antra/HotelManagementApp/HotelManagement/bin/Debug/netcoreapp3.1/HotelManagement.pdb
+/Users/mtsong/Documents/WebDev/Antra/HotelManagementApp/HotelManagement/obj/Debug/netcoreapp3.1/HotelManagement.csproj.AssemblyReference.cache
+/Users/mtsong/Documents/WebDev/Antra/HotelManagementApp/HotelManagement/obj/Debug/netcoreapp3.1/HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mtsong/Documents/WebDev/Antra/HotelManagementApp/HotelManagement/obj/Debug/netcoreapp3.1/HotelManagement.AssemblyInfoInputs.cache
+/Users/mtsong/Documents/WebDev/Antra/HotelManagementApp/HotelManagement/obj/Debug/netcoreapp3.1/HotelManagement.AssemblyInfo.cs
+/Users/mtsong/Documents/WebDev/Antra/HotelManagementApp/HotelManagement/obj/Debug/netcoreapp3.1/HotelManagement.csproj.CoreCompileInputs.cache
+/Users/mtsong/Documents/WebDev/Antra/HotelManagementApp/HotelManagement/obj/Debug/netcoreapp3.1/HotelManagement.dll
+/Users/mtsong/Documents/WebDev/Antra/HotelManagementApp/HotelManagement/obj/Debug/netcoreapp3.1/HotelManagement.pdb
